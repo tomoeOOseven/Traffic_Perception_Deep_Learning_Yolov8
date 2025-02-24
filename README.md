@@ -5,13 +5,14 @@ Submission for **Krackhack'25** in the Deep Learning Domain - Problem Statement:
 ## Installation & Setup
 
 ### 1. Download Model Weights
-Download the trained model weights from **[Google Drive](#)** and place them in the appropriate directories for testing.
+Download the trained model weights from Google Drive and place them in the appropriate directories for testing.
 
 ### 2. Install Dependencies
 Ensure you have the required dependencies installed with GPU acceleration where possible:
+oxxnruntime pytorch opencv ultralytics numpy
 
 ### 3. Install NVIDIA CUDA
-Download and install NVIDIA CUDA from the official [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads) website.
+Download and install NVIDIA CUDA from the official website.
 
 ## For Live Testing
 
@@ -19,8 +20,7 @@ Download and install NVIDIA CUDA from the official [CUDA Toolkit](https://develo
 Ensure you have all necessary files for running the live server.
 
 ### 2. Run the Python Script
-Execute the Python script to start the real-time processing:
-
+Execute the Python script to start the real-time processing
 
 ### 3. Open Localhost Link
 Once the script is running, open the terminal to find the localhost URL. Access it through a web browser to see live real-time video from the webcam with overlays.
@@ -28,6 +28,7 @@ Once the script is running, open the terminal to find the localhost URL. Access 
 Or
 
 ### 1. Download Python File and run
+Webcam will start and feed will be overlayed.
 
 ## For File Testing
 
