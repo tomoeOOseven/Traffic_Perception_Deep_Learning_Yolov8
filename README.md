@@ -9,7 +9,7 @@ Download the trained model weights from Google Drive and place them in the appro
 
 ### 2. Install Dependencies
 Ensure you have the required dependencies installed with GPU acceleration where possible:
-oxxnruntime pytorch opencv ultralytics numpy
+onnxruntime pytorch opencv ultralytics numpy
 
 ### 3. Install NVIDIA CUDA
 Download and install NVIDIA CUDA from the official website.
