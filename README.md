@@ -25,7 +25,7 @@ Execute the Python script to start the real-time processing:
 ### 3. Open Localhost Link
 Once the script is running, open the terminal to find the localhost URL. Access it through a web browser to see live real-time video from the webcam with overlays.
 
-##Or
+Or
 
 ### 1. Download Python File and run
 
