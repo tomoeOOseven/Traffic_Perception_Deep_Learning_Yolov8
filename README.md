@@ -1,20 +1,41 @@
-# Traffic_Perception_Deep_Learning_Yolov8
-Submission for Krackhack'25 in Deep Learning Domain PS "Intelligent Traffic Perception"
-Installation & Setup
-Download Model Weights
-Download the trained model weights from Google Drive and place them in the appropriate directories for testing.
-Install Dependencies
+# Traffic Perception Deep Learning - YOLOv8
+
+Submission for **Krackhack'25** in the Deep Learning Domain - Problem Statement: *Intelligent Traffic Perception*
+
+## Installation & Setup
+
+### 1. Download Model Weights
+Download the trained model weights from **[Google Drive](#)** and place them in the appropriate directories for testing.
+
+### 2. Install Dependencies
 Ensure you have the required dependencies installed with GPU acceleration where possible:
-pip install oxxnruntime torch torchvision torchaudio opencv-python ultralytics numpy
-Install NVIDIA CUDA
-Download and install NVIDIA CUDA from the official website: CUDA Toolkit
-For Live Testing
-Download and Unzip LocalHost Source Files
-Run the Python Script
-Find and execute the Python file
-Open Localhost Link
-Once the script is running, open the terminal and find the localhost URL, then access it through a web browser and see live real time video from the webcam being overlayed.
-For File Testing
-Download Python File
-Run it keeping test video and model in same directory.
-Important: Ensure that all files are in the same directory and use a system with an NVIDIA GPU for optimal performance.
+
+### 3. Install NVIDIA CUDA
+Download and install NVIDIA CUDA from the official [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads) website.
+
+## For Live Testing
+
+### 1. Download and Unzip LocalHost Source Files
+Ensure you have all necessary files for running the live server.
+
+### 2. Run the Python Script
+Execute the Python script to start the real-time processing:
+
+
+### 3. Open Localhost Link
+Once the script is running, open the terminal to find the localhost URL. Access it through a web browser to see live real-time video from the webcam with overlays.
+
+##Or
+
+### 1. Download Python File and run
+
+## For File Testing
+
+### 1. Download Python File
+Ensure the test video and model weights are in the same directory.
+
+### 2. Run the Script
+
+### **Important Notes:**
+- Ensure that all files (model weights, scripts, and test video) are in the same directory.
+- Use a system with an **NVIDIA GPU** for optimal performance.
